@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 
 ![](/assets/img/screenshots/lab1_part5_webpage.JPG)
 ![](/assets/img/screenshots/lab1_part5_webpage2.PNG)
-![](/assets/img/screenshots/lab1_part5_repo.JPG)
+![](/assets/img/screenshots/lab1_part5_repo.PNG)
