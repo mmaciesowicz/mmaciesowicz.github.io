@@ -704,3 +704,9 @@ button:focus {
   background-color: #790000;
   color: #fafafa;
 }
+
+.load-more-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
